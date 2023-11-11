@@ -1,6 +1,6 @@
 BODY
 {
-    margein: 0;
+    margin: 0;
     padding: 0;
     text-align: center;
 }
@@ -10,7 +10,7 @@ h1 {
 }
 
 p{
-    margein: 2em 0;
+    margin: 2em 0;
 }
 
 img{
