@@ -1,19 +1,42 @@
-BODY
-{
+BODY {
     margin: 0;
     padding: 0;
     text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
 }
 
-h1 {
+header {
+    background-color: #333;
+    padding: 20px;
+}
+
+header h1 {
     padding-top: 4em;
+    color: #fff;
 }
 
-p{
+main{
     margin: 2em 0;
+    text-align: center;
+}
+h2 {
+    color: #333;
+}
+
+p {
+    margin-bottom: 20px;
 }
 
 img{
     width: 40em;
     max-width: 90%;
+}
+
+footer {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
 }
